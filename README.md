@@ -3,9 +3,9 @@
 
 ### Framework/Library
 
-[vue](https://github.com/vuejs/vue)
+* [vue](https://github.com/vuejs/vue) A progressive, incrementally-adoptable JavaScript framework for building UI on the web. [home](http://vuejs.org)
 
-[react](https://github.com/facebook/react)
+* [react](https://github.com/facebook/react) A declarative, efficient, and flexible JavaScript library for building user interfaces. [home](https://facebook.github.io/react/)
 
 [angular2](https://github.com/angular/angular)
 
