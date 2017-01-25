@@ -3,36 +3,36 @@
 
 ### Framework/Library
 
-* [VueJs](https://github.com/vuejs/vue) A progressive, incrementally-adoptable JavaScript framework for building UI on the web. [↗️](http://vuejs.org)
+* [VueJs](https://github.com/vuejs/vue) A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 
-* [ReactJs](https://github.com/facebook/react) A declarative, efficient, and flexible JavaScript library for building user interfaces. [home](https://facebook.github.io/react/)
+* [ReactJs](https://github.com/facebook/react) A declarative, efficient, and flexible JavaScript library for building user interfaces.
 
-[angular2](https://github.com/angular/angular)
+* [AngularJs](https://github.com/angular/angular) One framework. Mobile & desktop.
 
-[framework7](https://github.com/nolimits4web/Framework7)
+* [Framework7Js](https://github.com/nolimits4web/Framework7) Full featured HTML framework for building iOS & Android apps.
 
-[aurelia](https://github.com/aurelia/framework)
+* [AureliaJs](https://github.com/aurelia/framework) The aurelia framework brings together all the required core aurelia libraries into a ready-to-go application-building platform.
 
 ### Ajax
 
-[fetch](https://github.com/github/fetch)
+* [FetchJs](https://github.com/github/fetch) A window.fetch JavaScript polyfill.
 
-[axios](https://github.com/mzabriskie/axios)
+* [AxiosJs](https://github.com/mzabriskie/axios) Promise based HTTP client for the browser and node.js
 
 ### Date
 
-[moment](https://github.com/moment/moment)
+* [MomentJs](https://github.com/moment/moment) Parse, validate, manipulate, and display dates in javascript.
 
-[date-fns](https://github.com/date-fns/date-fns)
+* [Date-fns](https://github.com/date-fns/date-fns) Modern JavaScript date utility library.
 
 ### Tools
 
-[underscore](https://github.com/jashkenas/underscore)
+* [UnderscoreJs](https://github.com/jashkenas/underscore) JavaScript's utility _ belt.
 
-[lodash](https://github.com/lodash/lodash)
+* [LodashJs](https://github.com/lodash/lodash) A modern JavaScript utility library delivering modularity, performance, & extras. 
 
 ### Native
 
-[react native](https://github.com/facebook/react-native)
+* [React Native](https://github.com/facebook/react-native) A framework for building native apps with React. 
 
-[weex](https://github.com/alibaba/weex)
+* [Weex](https://github.com/alibaba/weex) A framework for building Mobile cross-platform UI.
