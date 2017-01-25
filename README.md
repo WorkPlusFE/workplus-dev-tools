@@ -5,7 +5,7 @@
 * [Framework/Library](#frameworklibrary)
 * [Ajax](#ajax)
 * [Date](#date)
-* [Tools](#tools)
+* [Utility](#utility)
 * [Native](#native)
 
 ### Framework/Library
@@ -32,7 +32,7 @@
 
 * [Date-fns](https://github.com/date-fns/date-fns) Modern JavaScript date utility library.
 
-### Tools
+### Utility
 
 * [UnderscoreJs](https://github.com/jashkenas/underscore) JavaScript's utility _ belt.
 
