@@ -1,5 +1,7 @@
 # workplus-dev-tools
 
+> Enumerate the libraries, frameworks and development tools used frequently in project.
+
 * [Framework/Library](#frameworklibrary)
 * [Ajax](#ajax)
 * [Date](#date)
@@ -22,7 +24,7 @@
 
 * [FetchJs](https://github.com/github/fetch) A window.fetch JavaScript polyfill.
 
-* [AxiosJs](https://github.com/mzabriskie/axios) Promise based HTTP client for the browser and node.js
+* [AxiosJs](https://github.com/mzabriskie/axios) Promise based HTTP client for the browser and node.js.
 
 ### Date
 
