@@ -4,7 +4,6 @@
 
 * [Framework/Library](#frameworklibrary)
 * [Ajax](#ajax)
-* [Date](#date)
 * [Utility](#utility)
 * [Webpack](#webpack)
 * [Native](#native)
@@ -27,17 +26,16 @@
 
 * [AxiosJs](https://github.com/mzabriskie/axios) Promise based HTTP client for the browser and node.js.
 
-### Date
-
-* [MomentJs](https://github.com/moment/moment) Parse, validate, manipulate, and display dates in javascript.
-
-* [Date-fns](https://github.com/date-fns/date-fns) Modern JavaScript date utility library.
 
 ### Utility
 
 * [UnderscoreJs](https://github.com/jashkenas/underscore) JavaScript's utility _ belt.
 
 * [LodashJs](https://github.com/lodash/lodash) A modern JavaScript utility library delivering modularity, performance, & extras. 
+
+* [MomentJs](https://github.com/moment/moment) Parse, validate, manipulate, and display dates in javascript.
+
+* [Date-fns](https://github.com/date-fns/date-fns) Modern JavaScript date utility library.
 
 ### Webpack
 
