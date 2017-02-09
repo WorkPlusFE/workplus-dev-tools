@@ -42,8 +42,11 @@
 ### Webpack
 
 * [webpack](https://github.com/webpack/webpack) A bundler for javascript and friends.
+
 * [webpack-dev-server](https://github.com/webpack/webpack-dev-server) Serves a webpack app. Updates the browser on changes.
+
 * [extract-text-webpack-plugin](https://github.com/webpack-contrib/extract-text-webpack-plugin) Extract text from bundle into a file. 
+
 * [html-webpack-plugin](https://github.com/jantimon/html-webpack-plugin) Simplifies creation of HTML files to serve your webpack bundles.
 
 ### Native
