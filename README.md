@@ -37,6 +37,8 @@
 
 * [Date-fns](https://github.com/date-fns/date-fns) Modern JavaScript date utility library.
 
+* [crypto-js](https://github.com/brix/crypto-js) JavaScript library of crypto standards.
+
 ### Webpack
 
 * [webpack](https://github.com/webpack/webpack) A bundler for javascript and friends.
