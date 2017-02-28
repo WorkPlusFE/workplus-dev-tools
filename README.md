@@ -26,6 +26,8 @@
 
 * [AxiosJs](https://github.com/mzabriskie/axios) Promise based HTTP client for the browser and node.js.
 
+* [UnfetchJs](https://github.com/developit/unfetch) Bare minimum fetch polyfill in 500 bytes. 
+
 
 ### Utility
 
