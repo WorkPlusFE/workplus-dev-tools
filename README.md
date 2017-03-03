@@ -5,6 +5,7 @@
 * [Framework/Library](#frameworklibrary)
 * [Ajax](#ajax)
 * [Utility](#utility)
+* [I18n](#i18n)
 * [Webpack](#webpack)
 * [Docs](#docs)
 * [Native](#native)
@@ -41,6 +42,12 @@
 * [Date-fns](https://github.com/date-fns/date-fns) Modern JavaScript date utility library.
 
 * [crypto-js](https://github.com/brix/crypto-js) JavaScript library of crypto standards.
+
+### I18n
+
+* [polyglot.js](https://github.com/airbnb/polyglot.js) Give your JavaScript the ability to speak many languages. 
+
+* [i18next](https://github.com/i18next/i18next) i18next internationalization framework.
 
 ### Webpack
 
